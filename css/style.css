@@ -1,0 +1,17 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+#section-1 {
+    margin: 25px auto 25px auto;
+    /* margin: top | right | bottom | left  */
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+#about-us {
+    padding-top: 20px;
+}
